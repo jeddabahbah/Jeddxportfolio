@@ -20,7 +20,7 @@ a {text-decoration: none;}
 
 body {
 	color: #fff;
-	font-family: 'open-sans-bold'; 
+	font-family: 'Raleway', sans-serif;
 	font-size: 18px;
 	text-align: center;
 }
@@ -85,3 +85,6 @@ section {
 	}
 
 }
+
+/*fade-in*/
+.fadein {display: none;}
