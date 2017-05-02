@@ -6,7 +6,7 @@
     function showFade() {
         ++fadeIndex;
         fade.eq(fadeIndex % fade.length)
-            .delay(5000)
+            .delay(8000)
             .fadeIn(1000)
             
     }
